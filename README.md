@@ -6,13 +6,10 @@ The purpose of this project was to create a phylogenetic tree from 6 samples of 
 
 
 ## Methods
-Include information about 
--  Sequencing reads (NGS next-generation sequencing)
--  Assembly using MEGAHIT (provide a link to MEGAHIT website)
--  Alignment using R package DECIPHER
--  Tree using ML method in R package DECIPHER
--  For each source of data, state which files/folders in the repository correspond to those data (so for example, the assmebled reads are in __________ [some folder] and the raw sequencing reads are in ________ [some folder (this is the one named with your name)]
+The information for this project came from next-generation sequencing data collected from 6 Ebola virus samples. Next-generation sequencing creates a large number of short DNA sequences called reads. These reads were used to study how similar or different the Ebola virus samples were from one another. First, the short reads were assembled into longer DNA sequences called contigs using a program called MEGAHIT. MEGAHIT works by joining overlapping reads together to make longer sequences, which helps make comparisons between samples easier.
 
+After the contigs were created, they were imported into RStudio and analyzed with the DECIPHER package. The sequences were aligned so matching sections could be compared across all 6 samples. This alignment step helped show the genetic differences more clearly. Once the alignment was finished, a phylogenetic tree was built using the maximum likelihood method in DECIPHER. This approach predicts the evolutionary tree that best explains the relationships between the samples. The completed tree was then used to determine which Ebola virus samples were the most closely related and which were more genetically different from each other.
+The assembles reads are located in (abrahem Final Project.html) and the raw sequencing reads are located in abrahem.zip
 ## Results
 
 Here is the phylogenetic tree:
