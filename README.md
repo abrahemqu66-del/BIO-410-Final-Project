@@ -2,7 +2,7 @@
 ## Background
 The dataset includes 6 samples from the Ebola virus, which is part of the filovirus family and can cause Ebola disease, a severe and sometimes fatal illness in humans. According to the Centers for Disease Control and Prevention, Ebola disease is caused by orthoebolaviruses that are mostly found in sub-Saharan Africa and are known to cause serious infections (Centers for Disease Control and Prevention, 2026).  https://www.cdc.gov/ebola/about/index.html
 ## Purpose
-The purpose of this project was to create a phylogenetic tree from 6 samples of _Ebola___________ in order to determine the evolutionary relationships between the samples.
+The purpose of this project was to create a phylogenetic tree from 6 samples of _Ebola___virus________ in order to determine the evolutionary relationships between the samples.
 
 
 ## Methods
@@ -13,11 +13,10 @@ The assembles reads are located in (abrahem Final Project.html) and the raw sequ
 ## Results
 
 Here is the phylogenetic tree:
-(Insert the image, see the markdown cheat sheet for how to do that)
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7a909ca1-c8d4-49bd-8f85-b46a0ccb7b87" />
+The phylogenetic tree shows that samples 2 and 5 are the most closely related because they connect together at the lowest branch point with very little distance between them. This means their genetic sequences are very similar.
 
-![Example image of a phylogenetic tree](abetree.jpg.jpg)
+Samples 1 and 3 are also closely related since they branch together near the bottom of the tree. In the same way, samples 4 and 6 form another closely related pair because they also connect with a very small branch distance.
 
-Explain
-- which samples are closely related to each other
-- how many individuals did these 6 samples come from (probably) based on the phylogenetic tree
+The tree suggests that samples 1, 3, 4, and 6 are part of one larger group because their branches connect together before joining the rest of the samples. Samples 2 and 5 form a separate group that is much farther away from the others on the tree. The larger branch distance between these two groups means that samples 2 and 5 are more genetically different from samples 1, 3, 4, and 6.
 
