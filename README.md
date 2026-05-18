@@ -1,9 +1,8 @@
 # BIO 410 Final Project
 ## Background
-The data consist of 6 samples from the organism __________. This organism is a __________________ which ____________ [citation].
-
+The dataset includes 6 samples from the Ebola virus, which is part of the filovirus family and can cause Ebola disease, a severe and sometimes fatal illness in humans. According to the Centers for Disease Control and Prevention, Ebola disease is caused by orthoebolaviruses that are mostly found in sub-Saharan Africa and are known to cause serious infections (Centers for Disease Control and Prevention, 2026).  https://www.cdc.gov/ebola/about/index.html
 ## Purpose
-The purpose of this project was to create a phylogenetic tree from 6 samples of ____________ in order to determine the evolutionary relationships between the samples.
+The purpose of this project was to create a phylogenetic tree from 6 samples of _Ebola___________ in order to determine the evolutionary relationships between the samples.
 
 
 ## Methods
